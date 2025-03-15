@@ -46,7 +46,7 @@ MY INTERESTS: Mobile development, Football, Exploring new technologies
 <div align="left">
 
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/shefyo)
-[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](olegshefner6@gmail.com)
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:olegshefner6@gmail.com)
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](discordapp.com/users/416263237412061194)
 
 </div>
