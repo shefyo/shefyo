@@ -1,55 +1,23 @@
-<h2 align="left">Hi 👋! My name is Oleg and I'm a mobile developer, from Russia, Moscow</h2>
+# Hello! My name is Oleg🍊
 
-###
+## Techs
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shefyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+    <a href="https://kotlinlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="Kotlin"></a>
+    <a href="https://firebase.google.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg" alt="Firebase"></a>
+    <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python"></a>
+    <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java"></a>
+    <a href="https://developer.android.com/studio?hl=ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg" alt="Android Studio"></a>
+    <a href="https://www.mysql.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL"></a>
+    <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript"></a>
+    <a href="https://www.figma.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma"></a>
+    <a href="https://www.blender.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" alt="Blender"></a>  
 </div>
 
-###
+## Contact me
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/cc/91/bc/cc91bc11bd09f375f8c4e42758e691b2.jpg"  />
-
-###
-
-<div align="left">
-  <img src="ttps://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/users/416263237412061194" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" height="35" alt="discord logo"  />
-  </a>
-  <a href="olegshefner6@gmail.com" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/shefyo" target="_blank">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
+[![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/shefyo)  
+[![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](mailto:me@olegshefner6.com)
+[![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](discordapp.com/users/416263237412061194)
