@@ -7,7 +7,7 @@
 
 ## About me
 
-## Techs
+## My skills
 
 <div align="center">
     <a href="https://kotlinlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="Kotlin"></a>
@@ -20,13 +20,13 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript"></a>
     <a href="https://www.figma.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma"></a>
-    <a href="https://www.blender.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" alt="Blender"></a>  
+    <a href="https://www.blender.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" alt="Blender"></a>  
 </div>
 
 ## Contact me
 
+<div align="left">
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg)](https://t.me/shefyo)
-  
 [![Email](https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail2.svg)](olegshefner6@gmail.com)
-
 [![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg)](discordapp.com/users/416263237412061194)
+</div>
