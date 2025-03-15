@@ -44,7 +44,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" height="35" alt="discord logo"  />
   </a>
   <a href="olegshefner6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" height="35" alt="gmail logo"  />
   </a>
   <a href="https://t.me/shefyo" target="_blank">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" height="35" alt="telegram logo"  />
