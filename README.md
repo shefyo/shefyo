@@ -3,11 +3,18 @@
 # Welcome to my profile =)
 ### My name is Oleg🍊
 
+###
+
+<img align="right" height="170" src="https://i.pinimg.com/originals/9a/2e/3d/9a2e3dd3f3dc79b9da3bd0ee11d347b3.gif"  />
+
+###
+
 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shefyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 
 ## About me
@@ -21,6 +28,7 @@ MY INTERESTS: Mobile development, Football, Exploring new technologies
 ```
 
 ##
+
 
 ## The technologies I use
 
