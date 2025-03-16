@@ -34,18 +34,18 @@ MY INTERESTS: Mobile development, Football, Exploring new technologies
 
 <div align="left">
     <a href="https://kotlinlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg" alt="Kotlin"></a>
-    <a href="https://firebase.google.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase1.svg" alt="Firebase"></a>
-    <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python"></a>
-    <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java"></a>
-    <a href="https://developer.android.com/studio?hl=ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio1.svg" alt="Android Studio"></a>
+    <a href="https://firebase.google.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase3.svg" alt="Firebase"></a>
+    <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python"></a>
+    <a href="https://www.java.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java"></a>
+    <a href="https://developer.android.com/studio?hl=ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg" alt="Android Studio"></a>
     <a href="https://www.mysql.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL"></a>
-    <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git"></a>
+    <a href="https://git-scm.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript"></a>
     <a href="https://www.figma.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma"></a>
     <a href="https://www.blender.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender2.svg" alt="Blender"></a>
     <a href="https://www.php.net"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="PHP"></a>
-    <a href="https://ubuntu.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu"></a>
+    <a href="https://ubuntu.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="Ubuntu"></a>
   
 </div>
 
